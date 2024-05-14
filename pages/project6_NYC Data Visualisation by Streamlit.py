@@ -11,7 +11,7 @@ st.subheader("🗂️GitHub Repository")
 st.markdown("[Link to GitHub Repository](https://github.com/Charlotte-chada/DataVisualisation_Streamlit/tree/main)")
 
 st.subheader("📋Web App")
-st.markdown("[Link to Wep App](link)")
+st.markdown("[Link to Wep App](https://datavisualisationapp-6q5dpnpbfvptkkuzl24viv.streamlit.app/)")
 st.image('images/certificate_streamlit.png',caption="certificate", use_column_width=True)
 
 
